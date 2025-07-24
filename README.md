@@ -39,13 +39,12 @@ Users should be able to:
 
 ## My process
 Firstly, I go through the designs and determine what decisions I should make in development. I write these decisions down in a note from simplest to most difficult. An example will be whether to use CSS grids or flexbox or validate using regex for email validation or the in-built HTML form validation, getting a clear view of these decision help to make work easier and faster.
-Secondly, I use React JS becuase it is Javascript most common framework which gives me access to a lot of information in case any anything goes wrongly.
-Thirdly, I write most of the required JSX and CSS and include each feature from easiest to most difficult. 
+Secondly, I use React JS becuase it is Javascript most common framework which gives me access to a lot of information in case any anything goes wrong.
+Thirdly, I write most of the required JSX and CSS for each feature from easiest to most difficult. 
 
 
 ### Built with
 
-- React JS
 - Vite
 - CSS flexbox
 - CSS Grid
@@ -60,5 +59,5 @@ also got more understanding on how to validate emails using regex.
 
 ## Author
 
-- Frontend Mentor - [@iynlwa](https://www.frontendmentor.io/profile/iynulwa)
+- Frontend Mentor - [@iynulwa](https://www.frontendmentor.io/profile/iynulwa)
 - Twitter - [@iynulwa](https://www.twitter.com/iynulwa)
