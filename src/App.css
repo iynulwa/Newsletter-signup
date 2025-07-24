@@ -37,7 +37,7 @@ img{
 li{
     list-style: none;
     background: url(images/icon-list.svg) center left no-repeat;
-    padding-inline-start: 2rem;
+    padding-left: 2rem;
     margin: 0.5rem 0;
     font-size: clamp(0.8rem, 0.7rem + 0.625vw, 1rem);
 }
