@@ -34,8 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Newsletter site](https://newsletter-signup-six-iota.vercel.app/)
 
 ## My process
 Firstly, I go through the designs and determine what decisions I should make in development. I write these decisions down in a note from simplest to most difficult. An example will be whether to use CSS grids or flexbox or validate using regex for email validation or the in-built HTML form validation, getting a clear view of these decision help to make work easier and faster.
