@@ -4,7 +4,7 @@ import Input from './Input'
 function FormPage() {
 
     return(
-        <div className='signup-form'>
+        <main className='signup-form'>
             <picture>
                 <source media='(min-width: 40rem)' srcSet='/images/illustration-sign-up-desktop.svg' alt='page illustration' loading='lazy'/>
                 <img src='/images/illustration-sign-up-mobile.svg' alt='page illustration' loading='lazy'/>
@@ -21,7 +21,7 @@ function FormPage() {
                 </ul>
                 <Input />
             </div>
-        </div>
+        </main>
     )
 }
 

@@ -37,7 +37,7 @@ function Input(){
                     {errorState && <span className='error-msg'>Valid email required</span>}
                 </label>
                 <input onChange={handleChange} name='email' id='email' type='email' placeholder='email@company.com' value={email} required></input>
-                <button id='submit-btn'>Subscribe to monthly newsletter</button>      
+                <button type='submit' id='submit-btn'>Subscribe to monthly newsletter</button>      
             </form>
         </>
     )
